@@ -6,7 +6,7 @@ app.get('/test',(req,res) => {
 })
 
 app.get('/',(req,res) => {
-    res.send('<h1>Welcome to my application YOUR_NAME</h1>')
+    res.send('<h1>Welcome to my application Komail</h1>')
 })
 
 app.get('/about',(req,res) => {
